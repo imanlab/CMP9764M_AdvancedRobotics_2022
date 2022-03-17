@@ -1,34 +1,31 @@
-# Title-of-the-project
+# Advanced Robotics -- CMP9764M; M.Sc. RAS at the University of Lincoln, UK
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+* [About the Module](#about-the-module)
+* [SLides](#slides)
+* [Delivery Team](*delivery-team)
 * [References](#references)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-## About The Project
+## About the Module
 
-The purpose of this repository is to provide an easy and consistent way of documenting the projects at IML. This part of the readme can be used to define the overall problem statement of the research project. Feel free to modify the structure of readme as per the project requirements. 
+This repo contains the code and materials for the Advanced Robotics module Week 5 to 8 on 21, 28 March and 18 and 25 April 2022 at the University of Lincoln, UK. This is part of the Robotic Autonomous system M.Sc. programme. 
 
-### Built With
-This section should list any major frameworks that you built your project using (preferrably along with links). Please try to specify the versions.
+## Slides 
 
-- **Operating system xx**
-- **Language xx.xx**
-- **ROS dist** 
+- ** Week 5 (21.03.2022) 
+- ** Week 5 (21.03.2022) 
+- ** Week 5 (21.03.2022)
+- ** Week 5 (21.03.2022) 
 
-## Getting Started
+## Delivery Team
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* Kiyanoush Nazari (PhD student-Teaching Assitant)
+* Arashad Khan (Research-Teaching-Assitant)
+* Amir Ghalamzan (Instructor)
 
 ### Prerequisites
 
@@ -48,17 +45,18 @@ Instructions for cloning the repo and building the project files go here.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos would be great! You can also provide links to more resources. 
 
-## Roadmap
 
-This section can mention the milestones that have already been achieved and the proposed features/ miltestones, etc. 
 
 ## References 
 
-The references used for your work (research papers, blogs, books,etc.) can be listed here. 
+- [1] ProMP
+- [2] Deep-MP
+- [3] Deep-ProMP
+- [4] G. Bonvicini, Deep movement primitives and cotnrol policy for breast cancer examination robot, IROS2022 
 
 ## Contact 
 
-Provide a list of developers/maintainers email-ids of the repository so as to help resolve the issues future users may come across.
+a.ghalamzanesfahani@lincoln.ac.uk
 
 
 ## Acknowledgements
