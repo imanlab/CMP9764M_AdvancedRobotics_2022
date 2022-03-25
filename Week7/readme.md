@@ -2,7 +2,7 @@
 
 There are two different model training provided in this module. Both of them are written in Google Colab. 
 
-To avoid any path problems, we suggest that you clone this repository and  'AdvanceRoboticsWorkshop' to your Google Drive under Colab-Notebooks folder. If the 'Colab-Notebooks' folder does not exists, you can create one in the Google Drive and then uplaod 'AdvanceRoboticsWorkshop' folder under it. 
+To avoid any path problems, we suggest that you clone this repository and  'Week7' to your Google Drive under Colab-Notebooks folder. If the 'Colab-Notebooks' folder does not exists, you can create one in the Google Drive and then uplaod 'Week7' folder under it. 
 
 Your final directory structure should look something like this in Google Drive: 
 
@@ -12,7 +12,7 @@ Your final directory structure should look something like this in Google Drive:
 .
 .
 - Colab-Notebooks
-    - AdvanceRoboticsWorkshop
+    - Week7
         - autoencoders
             - docs
             - model
