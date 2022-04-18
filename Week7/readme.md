@@ -1,3 +1,7 @@
+## Workshopp Video
+
+The workshop was recorded and can be viewed [here](https://universityoflincoln-my.sharepoint.com/:v:/g/personal/mukhan_lincoln_ac_uk/ESzefU27JJpAtf3pwdY4EwUBfCX6wQFPix6HDNIDsIbv6g?e=oh6rvH).
+
 ## Instructions
 
 To avoid any path problems, we suggest that you clone this repository and copy/upload 'Week7' to your Google Drive under Colab-Notebooks folder. If the 'Colab-Notebooks' folder does not exist, you can create one in the Google Drive and then uploadd 'Week7' folder under it. 
